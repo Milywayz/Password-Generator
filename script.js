@@ -12,7 +12,7 @@ let special = ["~" , "`" , "!" , "@" , "#" , "$" , "%" , "^" , "&" , "*" , "(" ,
 // Function that generates the password
 function generatePassword(){
   // Password length prompt and variables that collect the password options
-  let length=prompt("How long do you want your password to be?")
+  let length=prompt("Please enter a length between 8 and 128 for your password.")
   let passwordoptions=[]
   let finalPassword=[]
   // Password length function that requires you to have at least 8 characters and no more than 128
