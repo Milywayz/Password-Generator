@@ -36,6 +36,13 @@ function generatePassword(){
   if (specials === true) {
     passwordoptions=passwordoptions.concat(special)
   }
+  if (!upper && !number && !lower && !specials)  {
+    alert("PLease select at least one option for your password!")
+    return
+  }
+
+
+
   console.log (passwordoptions)
 
   // if(confirm("Do you want your password to contain lowercase letters?"))
