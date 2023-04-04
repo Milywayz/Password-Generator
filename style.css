@@ -1,3 +1,4 @@
+/* General CSS */
 *,
 *::before,
 *::after {
@@ -11,7 +12,7 @@ body,
   margin: 0;
   padding: 0;
 }
-
+/* Body Styling Section */
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
@@ -22,14 +23,14 @@ body {
   padding-left: 20px;
   padding-right: 20px;
 }
-
+/* Header Section */
 header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
   color: hsl(206, 17%, 28%);
 }
-
+/* Main Section and Styling */
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -119,6 +120,7 @@ button[disabled] {
 }
 
 @media (max-width: 690px) {
+  /* Main Section Styling for Media Screen 690px */
   .btn {
     font-size: 1rem;
     margin: 16px 0px 0px 0px;
@@ -131,6 +133,7 @@ button[disabled] {
 }
 
 @media (max-width: 500px) {
+  /* Main Section Styling for Media Screen 500px */
   .btn {
     font-size: 0.8rem;
   }
