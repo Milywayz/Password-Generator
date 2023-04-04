@@ -19,10 +19,10 @@ function generatePassword(){
     return
   }
 
-  let upper=confirm("Do you want to include Uppercase letters?");
-  let number=confirm("Do you want to include numbers?");
-  let lower=confirm("Do you want to include Lowercase letters?");
-  let specials=confirm("Do you want to include special characters?")
+  let upper=confirm("Do you want to include Uppercase Letters?");
+  let lower=confirm("Do you want to include Lowercase Letters?");
+  let number=confirm("Do you want to include Numbers?");
+  let specials=confirm("Do you want to include Special Characters?")
 
   if (upper === true) {
     passwordoptions=passwordoptions.concat(upperAlphabet)
