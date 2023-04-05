@@ -7,7 +7,7 @@ https://milywayz.github.io/Password-Generator/
 
 ## Description
 
-This project was made to practice using JavaScript with variables, functions, if statements, and arrays. Using these practices together, it will create a password generator for use when you submit in your selected options.
+This project was made to practice using HTML, CSS, and JavaScript. The JavaScript is used with variables, functions, if statements, and arrays. Using these practices together, it will create a password generator for use when you submit in your selected options.
 
 ## Installation
 
