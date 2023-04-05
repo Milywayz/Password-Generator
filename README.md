@@ -16,6 +16,17 @@ N/A
 ## Usage
 
 The usage of this application is to generate a random new password after given the options the user selected.<br>
+Password Length, Uppercase Alphabet, Lowercase Alphabet, Numbers, and Special Character Options for the user to select.<br>
+
+
+
+   
+## License
+
+N/A
+
+
+## Features
 
 Password Length Option:
 ![Alt text](./assets/Length-image.png)
@@ -34,15 +45,9 @@ Use of Special Characters:
 
 Final Result with all options selected:
 ![Alt text](./assets/Final-image.png)
-   
-## License
 
-N/A
+Warning if you don't use the correct password length:
+![Alt text](./assets/Warning-Length-image.png)
 
-
-## Features
-
-Password Length, Uppercase Alphabet, Lowercase Alphabet, Numbers, and Special Character Options in creating a password.<br>
-Password Length Alert: Minimum of at least 8 characters/numbers and maximum of 128 characters/numbers warning.<br>
-Character/Number Options Alert: Minium select at least 1 option in choosing your password.
-
+Warning if you didn't select any of options given:
+![Alt text](./assets/Warning-Option-image.png)
