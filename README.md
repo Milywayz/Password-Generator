@@ -18,16 +18,22 @@ N/A
 The usage of this application is to generate a random new password after given the options the user selected.<br>
 
 Password Length Option:
+![Alt text](./assets/Length-image.png)
 
 Use of Uppercase Alphabet:
+![Alt text](./assets/Upper-image.png)
 
 Use of Lowercase Alphabet:
+![Alt text](./assets/Lower-image.png)
 
 Use of Numbers:
+![Alt text](./assets/Number-image.png)
 
 Use of Special Characters:
+![Alt text](./assets/Special-image.png)
 
 Final Result with all options selected:
+![Alt text](./assets/Final-image.png)
    
 ## License
 
